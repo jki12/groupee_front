@@ -1,6 +1,6 @@
 package com.groupee.front.filter;
 
-import com.groupee.front.security.JwtAuthenticationToken;
+import com.groupee.front.token.JwtAuthenticationToken;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.core.AuthenticationException;
