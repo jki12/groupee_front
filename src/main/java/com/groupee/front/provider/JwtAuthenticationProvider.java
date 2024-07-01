@@ -1,7 +1,7 @@
-package com.groupee.front.security.filter;
+package com.groupee.front.provider;
 
 import com.groupee.front.exception.InvalidJwtException;
-import com.groupee.front.security.JwtAuthenticationToken;
+import com.groupee.front.token.JwtAuthenticationToken;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtParser;
