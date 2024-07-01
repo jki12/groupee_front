@@ -1,4 +1,4 @@
-package com.groupee.front.security;
+package com.groupee.front.token;
 
 import lombok.Getter;
 import org.springframework.security.authentication.AbstractAuthenticationToken;
